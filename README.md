@@ -1,5 +1,4 @@
-# 🤖 Simple Stock Monitoring Bot (SRE Operational Showcase)
-
+# 🤖 Simple Stock Monitoring Bot
 This project is a resilient, automated stock monitoring bot built in Python. It serves as a direct showcase of **Site Reliability Engineering (SRE) principles** by integrating proactive, multi-channel alerting, state management for cooldowns, and backtesting for reliability analysis.
 
 ---
